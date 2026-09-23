@@ -380,7 +380,6 @@ Focused on:
 <a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
-
 </p>
 
 ---
