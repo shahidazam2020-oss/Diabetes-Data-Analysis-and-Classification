@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification">Overview</a> •
-  <a href="#-workflow">Workflow</a> •
+  <a href="https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification">Workflow</a> •
   <a href="#-machine-learning">Machine Learning</a> •
   <a href="#-repository-structure">Files</a> •
   <a href="#-technologies">Technologies</a>
