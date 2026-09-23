@@ -355,7 +355,7 @@ Through this project, the following practical concepts are demonstrated:
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 About ME
 
 ## Shahid Azam
 
