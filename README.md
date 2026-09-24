@@ -27,7 +27,7 @@
 
 *The project demonstrates a complete analytical workflow, beginning with **data loading and preprocessing**, followed by **exploratory data analysis**, feature inspection, and supervised machine-learning classification.*
 
-Two classification approaches are implemented:
+*Two classification approaches are implemented:*
 
 * 🔵 **K-Nearest Neighbors (KNN)**
 * 🟠 **Support Vector Machine (SVM)**
