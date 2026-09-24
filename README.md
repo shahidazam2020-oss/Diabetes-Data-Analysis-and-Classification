@@ -25,7 +25,7 @@
 
 *This repository presents a **Python-based diabetes data analysis and classification project** using the `diabetes.csv` dataset.*
 
-The project demonstrates a complete analytical workflow, beginning with **data loading and preprocessing**, followed by **exploratory data analysis**, feature inspection, and supervised machine-learning classification.
+*The project demonstrates a complete analytical workflow, beginning with **data loading and preprocessing**, followed by **exploratory data analysis**, feature inspection, and supervised machine-learning classification.*
 
 Two classification approaches are implemented:
 
