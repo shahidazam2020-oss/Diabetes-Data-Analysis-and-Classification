@@ -23,7 +23,7 @@
 
 ## 📌 Overview
 
-This repository presents a **Python-based diabetes data analysis and classification project** using the `diabetes.csv` dataset.
+*This repository presents a **Python-based diabetes data analysis and classification project** using the `diabetes.csv` dataset.*
 
 The project demonstrates a complete analytical workflow, beginning with **data loading and preprocessing**, followed by **exploratory data analysis**, feature inspection, and supervised machine-learning classification.
 
