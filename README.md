@@ -32,7 +32,7 @@ Two classification approaches are implemented:
 * 🔵 **K-Nearest Neighbors (KNN)**
 * 🟠 **Support Vector Machine (SVM)**
 
-*The KNN workflow additionally investigates different values of **K using 10-fold cross-validation** and identifies an optimal neighborhood size based on misclassification error.*
+**The KNN workflow additionally investigates different values of **K using 10-fold cross-validation** and identifies an optimal neighborhood size based on misclassification error.**
 
 ---
 
