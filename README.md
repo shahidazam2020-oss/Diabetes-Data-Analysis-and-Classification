@@ -192,7 +192,7 @@ The project implements **K-Nearest Neighbors classification**.
 
 **The optimal K is selected based on the minimum misclassification error.**
 
-A visualization is also generated showing:
+**A visualization is also generated showing:**
 
 > **Number of Neighbors (K) vs. Misclassification Error**
 
