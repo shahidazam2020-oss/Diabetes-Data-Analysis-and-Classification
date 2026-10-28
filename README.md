@@ -230,7 +230,7 @@ Accuracy = Correct Predictions / Total Predictions
 | 🔵 KNN | Test Accuracy |
 | 🟠 SVM | Test Accuracy |
 
-For KNN, cross-validation accuracy and misclassification error are additionally analyzed during K selection.
+**For KNN, cross-validation accuracy and misclassification error are additionally analyzed during K selection.**
 
 ---
 
