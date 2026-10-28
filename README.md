@@ -150,7 +150,7 @@ The project uses the **`diabetes.csv`** dataset.
 
 # 📈 Exploratory Data Analysis
 
-The project performs exploratory analysis to understand the dataset before model development.
+**The project performs exploratory analysis to understand the dataset before model development.**
 
 ### Analysis includes:
 
