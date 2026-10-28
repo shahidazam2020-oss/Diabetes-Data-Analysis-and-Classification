@@ -38,7 +38,7 @@ Two classification approaches are implemented:
 
 ## 🎯 Project Objectives
 
-The main objectives of this project are to:
+**The main objectives of this project are to:**
 
 * 📥 Load and inspect the diabetes dataset
 * 🧹 Perform basic data preprocessing
