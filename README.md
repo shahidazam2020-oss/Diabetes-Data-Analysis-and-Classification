@@ -223,7 +223,7 @@ The project also implements a **Support Vector Machine classifier** using Scikit
 Accuracy = Correct Predictions / Total Predictions
 ```
 
-The project evaluates the classification performance of:
+**The project evaluates the classification performance of:**
 
 | Model  | Evaluation    |
 | ------ | ------------- |
