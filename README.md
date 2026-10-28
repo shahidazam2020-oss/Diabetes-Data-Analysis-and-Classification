@@ -209,7 +209,7 @@ The project also implements a **Support Vector Machine classifier** using Scikit
 * Generate predictions on the test dataset
 * Calculate classification accuracy
 
-This provides a second supervised-learning approach for comparison with KNN.
+**This provides a second supervised-learning approach for comparison with KNN.**
 
 ---
 
