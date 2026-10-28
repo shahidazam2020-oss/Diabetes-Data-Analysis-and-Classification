@@ -144,7 +144,7 @@ The project uses the **`diabetes.csv`** dataset.
 * 🔤 Categorical-feature inspection
 * 📊 Feature variance analysis
 
-These steps prepare the dataset for subsequent exploratory analysis and classification.
+**These steps prepare the dataset for subsequent exploratory analysis and classification.**
 
 ---
 
