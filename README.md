@@ -322,7 +322,7 @@ Run the notebook cells sequentially.
 
 # 📚 Key Learning Outcomes
 
-Through this project, the following practical concepts are demonstrated:
+**Through this project, the following practical concepts are demonstrated:**
 
 * 🧹 Data cleaning and preprocessing
 * 📊 Exploratory data analysis
