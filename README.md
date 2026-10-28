@@ -190,7 +190,7 @@ The project implements **K-Nearest Neighbors classification**.
 
 **10-Fold Cross-Validation**
 
-The optimal K is selected based on the minimum misclassification error.
+**The optimal K is selected based on the minimum misclassification error.**
 
 A visualization is also generated showing:
 
