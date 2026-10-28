@@ -186,7 +186,7 @@ The project implements **K-Nearest Neighbors classification**.
 
 ### 🔄 Cross-Validation
 
-The notebook evaluates different K values using:
+**The notebook evaluates different K values using:**
 
 **10-Fold Cross-Validation**
 
