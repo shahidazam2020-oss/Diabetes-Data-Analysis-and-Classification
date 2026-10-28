@@ -132,7 +132,7 @@ The project uses the **`diabetes.csv`** dataset.
 
 # 🧹 Data Preprocessing
 
-The notebook performs several initial data-quality operations:
+**The notebook performs several initial data-quality operations:**
 
 * 🔎 Dataset inspection
 * 📐 Shape and dimensionality analysis
