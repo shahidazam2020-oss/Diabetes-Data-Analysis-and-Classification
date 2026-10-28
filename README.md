@@ -126,7 +126,7 @@ The project uses the **`diabetes.csv`** dataset.
 
 `Outcome`
 
-The target represents the classification label used by the machine-learning models.
+**The target represents the classification label used by the machine-learning models.**
 
 ---
 
