@@ -215,7 +215,7 @@ The project also implements a **Support Vector Machine classifier** using Scikit
 
 # 📏 Model Evaluation
 
-The primary evaluation metric used in the notebook is:
+**The primary evaluation metric used in the notebook is:**
 
 ### 🎯 Accuracy
 
