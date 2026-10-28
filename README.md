@@ -108,7 +108,7 @@ Two classification approaches are implemented:
 
 The project uses the **`diabetes.csv`** dataset.
 
-The analysis works with the following predictor variables:
+**The analysis works with the following predictor variables:**
 
 | Feature                    | Description                  |
 | -------------------------- | ---------------------------- |
