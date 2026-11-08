@@ -391,6 +391,8 @@ If this project helps you understand machine learning for healthcare prediction,
 
 🍴 **Forking the project**
 
+🐛 **Opening an issue**
+
 # ⭐ Support
 
 If you find this project useful for **learning, research, or machine-learning practice**, consider giving the repository a ⭐.
