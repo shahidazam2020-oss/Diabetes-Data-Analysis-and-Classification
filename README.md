@@ -387,6 +387,8 @@ Focused on:
 
 If this project helps you understand machine learning for healthcare prediction, consider:
 
+⭐ **Starring the repository**
+
 # ⭐ Support
 
 If you find this project useful for **learning, research, or machine-learning practice**, consider giving the repository a ⭐.
