@@ -402,4 +402,20 @@ If this project helps you understand machine learning for healthcare prediction,
 
 ---
 # ⭐ SUPPORT THIS PROJECT
+If you find this repository useful:
+
+- ⭐ Give it a star.
+- 🍴 Fork the repository.
+- 💬 Share feedback.
+- 🤝 Contribute improvements.
+
+### 💡 Learn • Explore • Visualize • Innovate
+
+**Transforming Data into Knowledge Through Practical Projects.**
+
+Developed with ❤️ by **Shahid Azam**
+
+[⬆ Back to Top](#-data-visualization--machine-learning)
+
+</div>
 
