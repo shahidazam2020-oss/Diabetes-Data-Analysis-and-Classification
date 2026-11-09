@@ -377,16 +377,13 @@ Focused on:
 * 🏥 Healthcare Machine Learning
 * 💻 Python Development
 
-<p align="center">
 
-<a href="https://github.com/shahidazam2020-oss">
-<img src="https://img.shields.io/badge/GitHub-Shahid%20Azam-181717?style=for-the-badge&logo=github">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/shahidazam2020-oss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shahid-azam-mughal-787b58235)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Shahid-Azam-5)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0001-6825-8863)
 
-<a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-</p>
+</div>
 
 ---
 # ⭐ If You Find This Project Useful
