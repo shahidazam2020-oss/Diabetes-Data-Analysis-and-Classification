@@ -354,12 +354,11 @@ Run the notebook cells sequentially.
 * 💻 Suitable for learning and demonstrating practical machine-learning techniques
 
 ---
+# 👨‍💻 ABOUT THE DEVELOPER
 
-# 👨‍💻 About ME
+<div align="center">
 
 ## Shahid Azam
-
-**MS Computer Science | Artificial Intelligence**
 
 Institute of Management Sciences, Peshawar, Pakistan
 
