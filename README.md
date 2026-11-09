@@ -360,7 +360,14 @@ Run the notebook cells sequentially.
 
 ## Shahid Azam
 
+**MS Computer Science | Artificial Intelligence**
+
 Institute of Management Sciences, Peshawar, Pakistan
+
+Interested in Artificial Intelligence, Machine Learning, Python Development, Research, and practical technology solutions.
+
+<br>
+
 
 Focused on:
 
