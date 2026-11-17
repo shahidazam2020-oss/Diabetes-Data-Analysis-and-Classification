@@ -18,7 +18,7 @@
   <a href="https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification">Technologies</a>
 </p>
 
-<p align="left">
+<div align="center">
   <a href="https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification?style=social&cacheSeconds=60" alt="GitHub Stars">
   </a>
@@ -28,7 +28,7 @@
   <a href="https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/commits">
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification?style=flat-square" alt="Last Commit">
   </a>
-
+</div>
   
 ---
 
