@@ -596,8 +596,6 @@ I am interested in developing practical solutions through Artificial Intelligenc
 
 ## 📬 Connect With Me
 
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/shahidazam2020-oss)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahid-azam-mughal-787b58235)
@@ -605,8 +603,6 @@ I am interested in developing practical solutions through Artificial Intelligenc
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-green?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Shahid-Azam-5)
 
 [![ORCID](https://img.shields.io/badge/ORCID-Connect-green?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0001-6825-8863)
-
-</div>
 
 ---
 
