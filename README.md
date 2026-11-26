@@ -10,6 +10,10 @@
   </a>
 </div>
 
+[![GitHub Stars](https://img.shields.io/github/stars/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification?style=social)](https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification?style=social)](https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/forks)
+[![GitHub Issues](https://img.shields.io/github/issues/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification)](https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/issues)
+
 ---
 <div align="center">
 
@@ -29,11 +33,6 @@ Transforming healthcare data into meaningful insights through data preprocessing
 [![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
 
-<br>
-
-[![GitHub Stars](https://img.shields.io/github/stars/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification?style=social)](https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification?style=social)](https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification)](https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/issues)
 
 <br>
 
