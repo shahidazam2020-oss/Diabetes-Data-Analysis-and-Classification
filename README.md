@@ -8,7 +8,6 @@
   <a href="https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/commits">
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification?style=flat-square" alt="Last Commit">
   </a>
-[![GitHub Issues](https://img.shields.io/github/issues/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification)](https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/issues)
 </div>
 
 ---
