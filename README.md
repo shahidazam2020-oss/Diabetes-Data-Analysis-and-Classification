@@ -8,11 +8,8 @@
   <a href="https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/commits">
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification?style=flat-square" alt="Last Commit">
   </a>
-</div>
-
-[![GitHub Stars](https://img.shields.io/github/stars/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification?style=social)](https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification?style=social)](https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/forks)
 [![GitHub Issues](https://img.shields.io/github/issues/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification)](https://github.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/issues)
+</div>
 
 ---
 <div align="center">
