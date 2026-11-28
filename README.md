@@ -158,7 +158,7 @@ Outcome
 
 ## 🔬 Project Workflow
 
-The project follows a structured machine learning pipeline:
+**The project follows a structured machine learning pipeline:**
 
 ```text
                  ┌─────────────────────────┐
