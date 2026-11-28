@@ -147,7 +147,7 @@
 Outcome
 ```
 
-The target variable represents the classification label used by the machine learning models.
+**The target variable represents the classification label used by the machine learning models.**
 
 - `0` — Negative class
 - `1` — Positive class
