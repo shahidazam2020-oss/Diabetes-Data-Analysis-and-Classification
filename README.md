@@ -75,7 +75,7 @@
 - 🔵 **K-Nearest Neighbors (KNN)**
 - 🟠 **Support Vector Machine (SVM)**
 
-An important part of the project is the investigation of different K values using 10-fold cross-validation to identify an optimal neighborhood size based on misclassification error.
+**An important part of the project is the investigation of different K values using 10-fold cross-validation to identify an optimal neighborhood size based on misclassification error.**
 
 ### 🎯 Project Vision
 
