@@ -85,7 +85,7 @@
 
 ## 🎯 Project Objectives
 
-The main objectives are:
+**The main objectives are:**
 
 - Understand and inspect a healthcare-related dataset.
 - Perform initial data cleaning and preprocessing.
