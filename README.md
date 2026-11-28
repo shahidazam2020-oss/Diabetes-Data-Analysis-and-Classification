@@ -70,7 +70,7 @@
 
 **It demonstrates a structured machine learning workflow, beginning with dataset inspection and preprocessing, followed by exploratory data analysis, model development, cross-validation, and classification evaluation.**
 
-Two supervised machine learning algorithms are implemented:
+**Two supervised machine learning algorithms are implemented:**
 
 - 🔵 **K-Nearest Neighbors (KNN)**
 - 🟠 **Support Vector Machine (SVM)**
