@@ -68,7 +68,7 @@
 
 **The project uses the Pima Indians Diabetes dataset to investigate relationships between medical attributes and diabetes outcome classifications.**
 
-It demonstrates a structured machine learning workflow, beginning with dataset inspection and preprocessing, followed by exploratory data analysis, model development, cross-validation, and classification evaluation.
+**It demonstrates a structured machine learning workflow, beginning with dataset inspection and preprocessing, followed by exploratory data analysis, model development, cross-validation, and classification evaluation.**
 
 Two supervised machine learning algorithms are implemented:
 
