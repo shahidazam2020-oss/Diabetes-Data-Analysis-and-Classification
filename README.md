@@ -19,7 +19,7 @@
 
 **A Python-Based Machine Learning Project for Diabetes Data Analysis and Classification**
 
-Transforming healthcare data into meaningful insights through data preprocessing, visualization, and supervised machine learning.
+**Transforming healthcare data into meaningful insights through data preprocessing, visualization, and supervised machine learning.**
 
 <br>
 
