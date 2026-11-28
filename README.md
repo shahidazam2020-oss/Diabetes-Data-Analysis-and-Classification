@@ -152,7 +152,7 @@ Outcome
 - `0` — Negative class
 - `1` — Positive class
 
-*The dataset is used for educational and machine learning experimentation, not for clinical diagnosis.*
+**The dataset is used for educational and machine learning experimentation, not for clinical diagnosis.**
 
 ---
 
