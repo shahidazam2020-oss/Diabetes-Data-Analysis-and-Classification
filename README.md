@@ -66,7 +66,7 @@
 
 **Diabetes Data Analysis and Classification** is a Python-based machine learning project that explores diabetes-related data using data analysis, visualization, preprocessing, and supervised learning techniques.
 
-The project uses the Pima Indians Diabetes dataset to investigate relationships between medical attributes and diabetes outcome classifications.
+**The project uses the Pima Indians Diabetes dataset to investigate relationships between medical attributes and diabetes outcome classifications.**
 
 It demonstrates a structured machine learning workflow, beginning with dataset inspection and preprocessing, followed by exploratory data analysis, model development, cross-validation, and classification evaluation.
 
