@@ -125,7 +125,7 @@
 
 **The project uses the `diabetes.csv` dataset associated with the Pima Indians Diabetes dataset.**
 
-The dataset contains medical and demographic attributes used as input features for classification.
+**The dataset contains medical and demographic attributes used as input features for classification.**
 
 ### Dataset Features
 
