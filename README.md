@@ -79,7 +79,7 @@
 
 ### 🎯 Project Vision
 
-To demonstrate how Python-based data analysis and machine learning techniques can be applied to healthcare-oriented classification problems while developing practical knowledge of predictive modeling.
+**To demonstrate how Python-based data analysis and machine learning techniques can be applied to healthcare-oriented classification problems while developing practical knowledge of predictive modeling.**
 
 ---
 
